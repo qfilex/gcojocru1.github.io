@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps":[],
+    "details": [
+      {
+        "appID": "75P9B6J9MN.com.tui.tda.uk-th.dev",
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Matches any URL"
+          }
+        ]
+      }
+    ]
+  }
+}
